@@ -1,0 +1,17 @@
+Job Title: Software Engineer
+
+Responsibilities:
+- Write clean, maintainable code for software applications.
+- Participate in design and code reviews.
+- Fix bugs and improve application performance.
+- Collaborate with cross-functional teams.
+
+Required Skills:
+- Python or Java
+- Data structures and algorithms
+- REST API basics
+- SQL
+- Git
+
+Experience: 0-2 years
+Location: Remote

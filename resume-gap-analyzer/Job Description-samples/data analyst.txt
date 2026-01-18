@@ -1,0 +1,17 @@
+Job Title: Data Analyst
+
+Responsibilities:
+- Clean, analyze, and visualize datasets.
+- Work with business teams to identify insights.
+- Build dashboards to track KPIs and metrics.
+- Perform A/B testing and statistical analysis.
+
+Required Skills:
+- SQL
+- Excel
+- Python or R
+- Power BI or Tableau
+- Statistical analysis
+
+Experience: 0-2 years
+Location: Mumbai

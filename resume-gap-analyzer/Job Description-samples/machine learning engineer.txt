@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+Responsibilities:
+- Build and deploy ML models for prediction and classification.
+- Work with NLP, CV, and tabular data.
+- Implement scalable model pipelines and APIs.
+- Maintain ML workflows and documentation.
+
+Required Skills:
+- Python
+- Machine Learning algorithms
+- TensorFlow or PyTorch
+- SQL
+- FastAPI or Flask
+
+Experience: 2-4 years
+Location: Hyderabad

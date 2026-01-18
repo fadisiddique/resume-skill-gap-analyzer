@@ -1,0 +1,357 @@
+python
+java
+javascript
+js
+typescript
+ts
+Graphic Design
+Visual Design
+UI Design
+UX Design
+Interaction Design
+Product Design
+Web Design
+Mobile App Design
+Responsive Design
+Layout Design
+Typography
+Color Theory
+Design Composition
+Grid Systems
+User Research
+User Personas
+User Journey Mapping
+Information Architecture
+Usability Testing
+Heuristic Evaluation
+Wireframing
+Prototyping
+A/B Testing
+Accessibility Design
+Human-Centered Design
+Design Thinking
+High-Fidelity Mockups
+Low-Fidelity Mockups
+Design Systems
+Component Design
+Icon Design
+Illustration
+Brand Identity Design
+Logo Design
+Visual Hierarchy
+Micro-interactions
+Figma
+Adobe XD
+Sketch
+Adobe Photoshop
+Adobe Illustrator
+Adobe InDesign
+Canva
+Framer
+Zeplin
+InVision
+Balsamiq
+HTML
+CSS
+Tailwind CSS
+Bootstrap
+Design-to-Code Handoff
+Pixel-Perfect Design
+Responsive Breakpoints
+Web Accessibility
+Motion Design
+UI Animations
+Micro-Animations
+After Effects
+Lottie Animations
+3D Design
+AR/VR Design
+Design Documentation
+Stakeholder Communication
+Design Reviews
+Agile Collaboration
+Cross-Functional Teamwork
+Design Critique
+Version Control
+Game UI Design
+Dashboard Design
+Data Visualization
+Infographic Design
+Email Design
+Landing Page Design
+Marketing Design
+c
+c++
+cpp
+c#
+csharp
+go
+golang
+rust
+ruby
+dart
+swift
+kotlin
+r
+php
+html
+css
+sass
+scss
+bootstrap
+tailwind css
+tailwind
+react
+reactjs
+react native
+angular
+angularjs
+vue
+vuejs
+next.js
+nextjs
+nuxt.js
+nuxtjs
+svelte
+jquery
+node.js
+nodejs
+express.js
+expressjs
+express
+django
+flask
+fastapi
+spring boot
+spring
+hibernate
+laravel
+ruby on rails
+rails
+asp.net
+graphql
+rest api
+restful api
+microservices
+mysql
+postgresql
+postgres
+mongodb
+mongo
+sqlite
+redis
+oracle
+firebase
+dynamodb
+elasticsearch
+cassandra
+mariadb
+aws
+amazon web services
+gcp
+google cloud
+azure
+microsoft azure
+ec2
+lambda
+s3
+cloudwatch
+cloudformation
+route53
+iam
+api gateway
+gke
+aks
+cloud run
+docker
+kubernetes
+k8s
+jenkins
+github actions
+gitlab ci
+circleci
+terraform
+ansible
+chef
+puppet
+prometheus
+grafana
+nginx
+apache
+linux
+ubuntu
+centos
+bash scripting
+bash
+shell scripting
+powershell
+machine learning
+ml
+deep learning
+dl
+nlp
+natural language processing
+computer vision
+cv
+data mining
+data analysis
+data science
+data cleaning
+data wrangling
+feature engineering
+model evaluation
+model deployment
+anomaly detection
+recommendation systems
+pandas
+numpy
+scikit-learn
+sklearn
+scikit
+tensorflow
+tf
+pytorch
+torch
+keras
+matplotlib
+seaborn
+plotly
+xgboost
+lightgbm
+catboost
+opencv
+sql
+etl
+data modeling
+data warehousing
+hadoop
+spark
+apache spark
+pyspark
+kafka
+airflow
+dbt
+devops
+ci/cd
+continuous integration
+continuous deployment
+version control
+git
+github
+gitlab
+bitbucket
+agile
+scrum
+kanban
+jira
+confluence
+trello
+postman
+swagger
+api testing
+unit testing
+integration testing
+end-to-end testing
+test automation
+selenium
+cypress
+jest
+mocha
+pytest
+junit
+cybersecurity
+penetration testing
+vulnerability scanning
+firewalls
+siem tools
+network security
+encryption
+communication
+teamwork
+leadership
+problem solving
+critical thinking
+time management
+creativity
+adaptability
+analytical thinking
+attention to detail
+collaboration
+project management
+cloud architecture
+distributed systems
+system design
+api design
+scalability
+performance optimization
+caching
+load balancing
+message queues
+event-driven architecture
+business analysis
+requirements gathering
+stakeholder management
+user research
+design thinking
+product management
+roadmapping
+wireframing
+prototyping
+ui/ux
+ux design
+ui design
+figma
+sketch
+adobe xd
+photoshop
+illustrator
+excel
+microsoft excel
+power bi
+tableau
+qlik
+looker
+statistics
+probability
+a/b testing
+hypothesis testing
+regression
+data visualization
+forecasting
+time series
+aws glue
+aws redshift
+redshift
+bigquery
+snowflake
+databricks
+spark sql
+langchain
+huggingface
+transformers
+huggingface transformers
+vector databases
+faiss
+pinecone
+weaviate
+chromadb
+prompt engineering
+llm
+large language models
+gpt
+bert
+tensorflow serving
+torchserve
+bentoml
+mlflow
+kubeflow
+feature stores
+model monitoring
+oauth
+oauth2
+jwt
+authentication
+authorization
+sso
+saml
+openid

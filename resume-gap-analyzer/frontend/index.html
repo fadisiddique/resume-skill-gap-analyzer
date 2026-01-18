@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Resume Analyzer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="page">
+    <div class="header">
+      <div class="logo"><img src="logo.svg" alt="Logo" /></div>
+      <h1>Resume Analyzer</h1>
+      <p>Upload your resume and get instant insights</p>
+    </div>
+
+    <div class="card">
+      <label class="section-title">Upload Resume (PDF)</label>
+      <div class="upload-box">
+        <input type="file" id="resume" accept=".pdf" />
+        <span id="uploadText">Click to upload or drag and drop<br><small>PDF files only</small></span>
+      </div>
+
+      <label class="section-title">Job Description</label>
+      <textarea id="jd" placeholder="Paste the job description here..."></textarea>
+
+      <button id="analyzeBtn"><img src="logo.svg" alt="Logo" /> Analyze Resume</button>
+      <div class="loader" id="loader">
+      <div class="spinner"></div>
+      <p>Analyzing resume…</p>
+      </div>
+
+      <div class="result" id="result">
+        <p class="score" id="score"></p>
+
+        <h3>Matched Skills</h3>
+        <ul id="matched"></ul>
+
+        <h3>Missing Skills</h3>
+        <ul id="missing"></ul>
+      </div>
+    </div>
+  </div>
+
+  <footer>Made by Fadi!</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

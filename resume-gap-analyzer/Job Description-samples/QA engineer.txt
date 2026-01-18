@@ -1,0 +1,17 @@
+Job Title: QA Engineer
+
+Responsibilities:
+- Write test plans and test cases.
+- Perform manual and automated testing.
+- Identify bugs and track them in testing tools.
+- Work with developers to ensure code quality.
+
+Required Skills:
+- Selenium
+- Manual testing
+- Test automation basics
+- SQL
+- Jira or similar tools
+
+Experience: 0-2 years
+Location: Chennai
